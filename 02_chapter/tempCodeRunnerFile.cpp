@@ -1,4 +1,3 @@
-else(x=y)
-    // {
-    //         cout << "you are in no profit no loss" << endl;
-    // }
+int x;
+    cout<<"Entre your first quadrant here :";
+    cin>>x;
